@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Fouad 👋
 
-<!--
-**trarifouad/trarifouad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering student at **ESI-SBA** (École Supérieure en Informatique, Sidi Bel Abbès) 🇩🇿
 
-Here are some ideas to get you started:
+I build full-stack web apps and desktop applications, solo and in teams.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech stack
+
+- **Languages:** Python · JavaScript · TypeScript · Java
+- **Frontend:** React · Next.js · React Native (Expo)
+- **Backend:** FastAPI
+- **Desktop:** PySide6 / PyQt6
+- **Database:** SQLite
+
+## 🚀 Featured projects
+
+- **Tadris**: offline-first desktop app to manage a private tutoring school (students, groups, attendance, subscriptions, payments, reports). *Python · PySide6 · SQLite*
+- **[Divano](https://github.com/trarifouad/Divano)**: desktop business management app for a costume rental shop. *Python · PyQt6*
+- **ESIATTEND**: attendance management system for ESI-SBA (team project, frontend). *Next.js · FastAPI*
+- **DzDeliver**: food delivery platform for Algeria (team project, frontend & mobile). *React Native · Next.js · FastAPI*
+
+## 📫 Contact
+
+Open to internships and collaboration. Feel free to reach out!
